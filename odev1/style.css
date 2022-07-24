@@ -1,0 +1,27 @@
+.bg-black{
+    background-color: rgba(59, 59, 59, 0.979);
+    text-align: center;
+}
+.info{
+    margin-top: 6%;
+}
+.clock{
+    color: #e98208;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 3px;
+}
+.text1 {
+    color: #e98208;
+    font-size: 35px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 3px;
+}
+  
+.text2 {
+    color: #e98208;
+    font-size: 30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 3px;
+    margin: auto 50px;
+}
